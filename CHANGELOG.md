@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.134.0](https://github.com/lithic-com/lithic-python/compare/v0.133.0...v0.134.0) (2026-10-19)
+
+
+### Features
+
+* **api:** add ALLPOINT to card transaction and authorization network enums ([c091887](https://github.com/lithic-com/lithic-python/commit/c091887ddcd9db7669888db92a06148ad0e7d1e0))
+* **api:** add INSTANCE_TO_INSTANCE to book transfer type and financial event type enums ([27c08ac](https://github.com/lithic-com/lithic-python/commit/27c08acb8e0b667bd280a65d07ddeedec401f0ff))
+* **api:** add reference_id field to claims for matching with the dashboard ([3933cbb](https://github.com/lithic-com/lithic-python/commit/3933cbb49adc6554dd8aa6f1c4f9a458b3f6d661))
+* **api:** add unit_amount and total_amount to enhanced commercial data line items, deprecate amount ([5f8ba69](https://github.com/lithic-com/lithic-python/commit/5f8ba69b5655f0fe390da8eae400cb2af268244c))
+
 ## [0.133.0](https://github.com/lithic-com/lithic-python/compare/v0.132.0...v0.133.0) (2026-10-13)
 
 
